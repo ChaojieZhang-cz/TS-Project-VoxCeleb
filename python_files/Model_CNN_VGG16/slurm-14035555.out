@@ -1,0 +1,302 @@
+/scratch/cz2064/envs/dl4med/lib/python3.6/site-packages/torchaudio/backend/utils.py:54: UserWarning: "sox" backend is being deprecated. The default backend will be changed to "sox_io" backend in 0.8.0 and "sox" backend will be removed in 0.9.0. Please migrate to "sox_io" backend. Please refer to https://github.com/pytorch/audio/issues/903 for the detail.
+  '"sox" backend is being deprecated. '
+----------Epoch 1/100----------
+Train set | Loss: 0.5920 | Accuracy: 67.80% 
+Test set | Loss: 0.5507 | Accuracy: 70.69% | time elapse:  00:32:48
+----------Epoch 2/100----------
+Train set | Loss: 0.5355 | Accuracy: 72.11% 
+Test set | Loss: 0.5049 | Accuracy: 74.30% | time elapse:  01:05:38
+----------Epoch 3/100----------
+Train set | Loss: 0.5168 | Accuracy: 73.33% 
+Test set | Loss: 0.4971 | Accuracy: 74.74% | time elapse:  01:38:30
+----------Epoch 4/100----------
+Train set | Loss: 0.5041 | Accuracy: 74.61% 
+Test set | Loss: 0.4961 | Accuracy: 74.80% | time elapse:  02:11:19
+----------Epoch 5/100----------
+Train set | Loss: 0.5000 | Accuracy: 74.57% 
+Test set | Loss: 0.4841 | Accuracy: 75.73% | time elapse:  02:44:08
+----------Epoch 6/100----------
+Train set | Loss: 0.4937 | Accuracy: 74.97% 
+Test set | Loss: 0.4891 | Accuracy: 75.78% | time elapse:  03:16:56
+----------Epoch 7/100----------
+Train set | Loss: 0.4885 | Accuracy: 75.49% 
+Test set | Loss: 0.4762 | Accuracy: 76.26% | time elapse:  03:49:48
+----------Epoch 8/100----------
+Train set | Loss: 0.4824 | Accuracy: 75.57% 
+Test set | Loss: 0.4738 | Accuracy: 76.68% | time elapse:  04:22:40
+----------Epoch 9/100----------
+Train set | Loss: 0.4783 | Accuracy: 76.08% 
+Test set | Loss: 0.4622 | Accuracy: 76.77% | time elapse:  04:55:33
+----------Epoch10/100----------
+Train set | Loss: 0.4778 | Accuracy: 76.04% 
+Test set | Loss: 0.4555 | Accuracy: 77.63% | time elapse:  05:28:25
+----------Epoch11/100----------
+Train set | Loss: 0.4646 | Accuracy: 76.86% 
+Test set | Loss: 0.4494 | Accuracy: 77.79% | time elapse:  06:01:20
+----------Epoch12/100----------
+Train set | Loss: 0.4617 | Accuracy: 77.20% 
+Test set | Loss: 0.4405 | Accuracy: 78.50% | time elapse:  06:34:14
+----------Epoch13/100----------
+Train set | Loss: 0.4555 | Accuracy: 77.72% 
+Test set | Loss: 0.4424 | Accuracy: 78.79% | time elapse:  07:07:11
+----------Epoch14/100----------
+Train set | Loss: 0.4540 | Accuracy: 77.68% 
+Test set | Loss: 0.4451 | Accuracy: 78.53% | time elapse:  07:40:09
+----------Epoch15/100----------
+Train set | Loss: 0.4478 | Accuracy: 78.14% 
+Test set | Loss: 0.4328 | Accuracy: 79.22% | time elapse:  08:13:07
+----------Epoch16/100----------
+Train set | Loss: 0.4440 | Accuracy: 78.10% 
+Test set | Loss: 0.4231 | Accuracy: 79.73% | time elapse:  08:46:07
+----------Epoch17/100----------
+Train set | Loss: 0.4394 | Accuracy: 78.64% 
+Test set | Loss: 0.4243 | Accuracy: 79.89% | time elapse:  09:19:05
+----------Epoch18/100----------
+Train set | Loss: 0.4325 | Accuracy: 79.21% 
+Test set | Loss: 0.4203 | Accuracy: 79.97% | time elapse:  09:52:05
+----------Epoch19/100----------
+Train set | Loss: 0.4344 | Accuracy: 79.03% 
+Test set | Loss: 0.4141 | Accuracy: 80.11% | time elapse:  10:25:04
+----------Epoch20/100----------
+Train set | Loss: 0.4328 | Accuracy: 79.12% 
+Test set | Loss: 0.4144 | Accuracy: 80.40% | time elapse:  10:58:01
+----------Epoch21/100----------
+Train set | Loss: 0.4278 | Accuracy: 79.54% 
+Test set | Loss: 0.4172 | Accuracy: 80.57% | time elapse:  11:31:01
+----------Epoch22/100----------
+Train set | Loss: 0.4230 | Accuracy: 79.63% 
+Test set | Loss: 0.4146 | Accuracy: 80.33% | time elapse:  12:03:59
+----------Epoch23/100----------
+Train set | Loss: 0.4248 | Accuracy: 79.50% 
+Test set | Loss: 0.4089 | Accuracy: 80.92% | time elapse:  12:37:00
+----------Epoch24/100----------
+Train set | Loss: 0.4186 | Accuracy: 79.91% 
+Test set | Loss: 0.4015 | Accuracy: 80.86% | time elapse:  13:10:00
+----------Epoch25/100----------
+Train set | Loss: 0.4138 | Accuracy: 80.41% 
+Test set | Loss: 0.4002 | Accuracy: 81.15% | time elapse:  13:43:01
+----------Epoch26/100----------
+Train set | Loss: 0.4140 | Accuracy: 80.24% 
+Test set | Loss: 0.3990 | Accuracy: 81.20% | time elapse:  14:16:03
+----------Epoch27/100----------
+Train set | Loss: 0.4118 | Accuracy: 80.42% 
+Test set | Loss: 0.3923 | Accuracy: 81.72% | time elapse:  14:49:07
+----------Epoch28/100----------
+Train set | Loss: 0.4093 | Accuracy: 80.65% 
+Test set | Loss: 0.3877 | Accuracy: 82.09% | time elapse:  15:22:09
+----------Epoch29/100----------
+Train set | Loss: 0.4033 | Accuracy: 81.05% 
+Test set | Loss: 0.3896 | Accuracy: 81.79% | time elapse:  15:55:10
+----------Epoch30/100----------
+Train set | Loss: 0.3990 | Accuracy: 81.34% 
+Test set | Loss: 0.3830 | Accuracy: 82.01% | time elapse:  16:28:12
+----------Epoch31/100----------
+Train set | Loss: 0.3989 | Accuracy: 81.20% 
+Test set | Loss: 0.3848 | Accuracy: 82.17% | time elapse:  17:01:14
+----------Epoch32/100----------
+Train set | Loss: 0.3994 | Accuracy: 81.18% 
+Test set | Loss: 0.3777 | Accuracy: 82.38% | time elapse:  17:34:18
+----------Epoch33/100----------
+Train set | Loss: 0.3979 | Accuracy: 81.23% 
+Test set | Loss: 0.3825 | Accuracy: 82.09% | time elapse:  18:07:23
+----------Epoch34/100----------
+Train set | Loss: 0.3914 | Accuracy: 81.57% 
+Test set | Loss: 0.3782 | Accuracy: 82.85% | time elapse:  18:40:25
+----------Epoch35/100----------
+Train set | Loss: 0.3918 | Accuracy: 81.78% 
+Test set | Loss: 0.3878 | Accuracy: 82.02% | time elapse:  19:17:55
+----------Epoch36/100----------
+Train set | Loss: 0.3907 | Accuracy: 81.85% 
+Test set | Loss: 0.3851 | Accuracy: 82.39% | time elapse:  19:50:28
+----------Epoch37/100----------
+Train set | Loss: 0.3897 | Accuracy: 81.95% 
+Test set | Loss: 0.3678 | Accuracy: 83.24% | time elapse:  20:23:01
+----------Epoch38/100----------
+Train set | Loss: 0.3816 | Accuracy: 82.25% 
+Test set | Loss: 0.3833 | Accuracy: 82.49% | time elapse:  20:55:37
+----------Epoch39/100----------
+Train set | Loss: 0.3874 | Accuracy: 81.90% 
+Test set | Loss: 0.3687 | Accuracy: 83.20% | time elapse:  21:28:07
+----------Epoch40/100----------
+Train set | Loss: 0.3797 | Accuracy: 82.38% 
+Test set | Loss: 0.3668 | Accuracy: 83.30% | time elapse:  22:00:39
+----------Epoch41/100----------
+Train set | Loss: 0.3762 | Accuracy: 82.75% 
+Test set | Loss: 0.3679 | Accuracy: 83.17% | time elapse:  22:33:10
+----------Epoch42/100----------
+Train set | Loss: 0.3746 | Accuracy: 82.70% 
+Test set | Loss: 0.3726 | Accuracy: 83.07% | time elapse:  23:05:41
+----------Epoch43/100----------
+Train set | Loss: 0.3693 | Accuracy: 83.08% 
+Test set | Loss: 0.3682 | Accuracy: 83.02% | time elapse:  23:38:15
+----------Epoch44/100----------
+Train set | Loss: 0.3733 | Accuracy: 82.69% 
+Test set | Loss: 0.3768 | Accuracy: 82.83% | time elapse:  00:10:46
+----------Epoch45/100----------
+Train set | Loss: 0.3696 | Accuracy: 83.06% 
+Test set | Loss: 0.3568 | Accuracy: 83.72% | time elapse:  00:43:27
+----------Epoch46/100----------
+Train set | Loss: 0.3674 | Accuracy: 83.30% 
+Test set | Loss: 0.3662 | Accuracy: 83.27% | time elapse:  01:15:59
+----------Epoch47/100----------
+Train set | Loss: 0.3649 | Accuracy: 83.23% 
+Test set | Loss: 0.3560 | Accuracy: 83.76% | time elapse:  01:48:30
+----------Epoch48/100----------
+Train set | Loss: 0.3638 | Accuracy: 83.49% 
+Test set | Loss: 0.3503 | Accuracy: 84.60% | time elapse:  02:21:01
+----------Epoch49/100----------
+Train set | Loss: 0.3623 | Accuracy: 83.59% 
+Test set | Loss: 0.3538 | Accuracy: 83.96% | time elapse:  02:53:33
+----------Epoch50/100----------
+Train set | Loss: 0.3599 | Accuracy: 83.72% 
+Test set | Loss: 0.3608 | Accuracy: 83.69% | time elapse:  03:26:04
+----------Epoch51/100----------
+Train set | Loss: 0.3623 | Accuracy: 83.57% 
+Test set | Loss: 0.3489 | Accuracy: 84.16% | time elapse:  03:58:41
+----------Epoch52/100----------
+Train set | Loss: 0.3595 | Accuracy: 83.72% 
+Test set | Loss: 0.3479 | Accuracy: 84.03% | time elapse:  04:31:12
+----------Epoch53/100----------
+Train set | Loss: 0.3582 | Accuracy: 83.87% 
+Test set | Loss: 0.3490 | Accuracy: 84.35% | time elapse:  05:03:45
+----------Epoch54/100----------
+Train set | Loss: 0.3557 | Accuracy: 83.80% 
+Test set | Loss: 0.3470 | Accuracy: 84.56% | time elapse:  05:36:18
+----------Epoch55/100----------
+Train set | Loss: 0.3542 | Accuracy: 84.00% 
+Test set | Loss: 0.3451 | Accuracy: 84.69% | time elapse:  06:08:51
+----------Epoch56/100----------
+Train set | Loss: 0.3497 | Accuracy: 84.22% 
+Test set | Loss: 0.3382 | Accuracy: 84.89% | time elapse:  06:41:24
+----------Epoch57/100----------
+Train set | Loss: 0.3493 | Accuracy: 84.27% 
+Test set | Loss: 0.3386 | Accuracy: 84.80% | time elapse:  07:13:59
+----------Epoch58/100----------
+Train set | Loss: 0.3477 | Accuracy: 84.25% 
+Test set | Loss: 0.3462 | Accuracy: 84.27% | time elapse:  07:46:32
+----------Epoch59/100----------
+Train set | Loss: 0.3464 | Accuracy: 84.39% 
+Test set | Loss: 0.3478 | Accuracy: 84.65% | time elapse:  08:19:13
+----------Epoch60/100----------
+Train set | Loss: 0.3409 | Accuracy: 84.59% 
+Test set | Loss: 0.3392 | Accuracy: 85.00% | time elapse:  08:51:44
+----------Epoch61/100----------
+Train set | Loss: 0.3404 | Accuracy: 84.80% 
+Test set | Loss: 0.3289 | Accuracy: 85.26% | time elapse:  09:24:23
+----------Epoch62/100----------
+Train set | Loss: 0.3390 | Accuracy: 84.84% 
+Test set | Loss: 0.3334 | Accuracy: 85.12% | time elapse:  09:56:59
+----------Epoch63/100----------
+Train set | Loss: 0.3391 | Accuracy: 84.85% 
+Test set | Loss: 0.3234 | Accuracy: 85.77% | time elapse:  10:29:37
+----------Epoch64/100----------
+Train set | Loss: 0.3407 | Accuracy: 84.85% 
+Test set | Loss: 0.3384 | Accuracy: 84.94% | time elapse:  11:02:15
+----------Epoch65/100----------
+Train set | Loss: 0.3371 | Accuracy: 84.90% 
+Test set | Loss: 0.3249 | Accuracy: 85.66% | time elapse:  11:34:46
+----------Epoch66/100----------
+Train set | Loss: 0.3331 | Accuracy: 85.00% 
+Test set | Loss: 0.3250 | Accuracy: 85.79% | time elapse:  12:07:19
+----------Epoch67/100----------
+Train set | Loss: 0.3319 | Accuracy: 85.17% 
+Test set | Loss: 0.3257 | Accuracy: 85.71% | time elapse:  12:39:57
+----------Epoch68/100----------
+Train set | Loss: 0.3316 | Accuracy: 85.33% 
+Test set | Loss: 0.3230 | Accuracy: 85.63% | time elapse:  13:12:28
+----------Epoch69/100----------
+Train set | Loss: 0.3275 | Accuracy: 85.57% 
+Test set | Loss: 0.3219 | Accuracy: 85.73% | time elapse:  13:45:03
+----------Epoch70/100----------
+Train set | Loss: 0.3272 | Accuracy: 85.58% 
+Test set | Loss: 0.3252 | Accuracy: 85.74% | time elapse:  14:17:34
+----------Epoch71/100----------
+Train set | Loss: 0.3264 | Accuracy: 85.64% 
+Test set | Loss: 0.3188 | Accuracy: 86.06% | time elapse:  14:50:13
+----------Epoch72/100----------
+Train set | Loss: 0.3265 | Accuracy: 85.32% 
+Test set | Loss: 0.3206 | Accuracy: 86.23% | time elapse:  15:22:43
+----------Epoch73/100----------
+Train set | Loss: 0.3195 | Accuracy: 85.97% 
+Test set | Loss: 0.3112 | Accuracy: 86.25% | time elapse:  15:55:18
+----------Epoch74/100----------
+Train set | Loss: 0.3212 | Accuracy: 85.78% 
+Test set | Loss: 0.3100 | Accuracy: 86.69% | time elapse:  16:27:49
+----------Epoch75/100----------
+Train set | Loss: 0.3161 | Accuracy: 86.09% 
+Test set | Loss: 0.3181 | Accuracy: 85.78% | time elapse:  17:00:25
+----------Epoch76/100----------
+Train set | Loss: 0.3171 | Accuracy: 86.07% 
+Test set | Loss: 0.3084 | Accuracy: 86.32% | time elapse:  17:32:55
+----------Epoch77/100----------
+Train set | Loss: 0.3208 | Accuracy: 85.97% 
+Test set | Loss: 0.3094 | Accuracy: 86.69% | time elapse:  18:05:30
+----------Epoch78/100----------
+Train set | Loss: 0.3194 | Accuracy: 85.92% 
+Test set | Loss: 0.3058 | Accuracy: 86.75% | time elapse:  18:38:06
+----------Epoch79/100----------
+Train set | Loss: 0.3174 | Accuracy: 86.03% 
+Test set | Loss: 0.3076 | Accuracy: 86.51% | time elapse:  19:10:38
+----------Epoch80/100----------
+Train set | Loss: 0.3095 | Accuracy: 86.39% 
+Test set | Loss: 0.3069 | Accuracy: 86.42% | time elapse:  19:43:11
+----------Epoch81/100----------
+Train set | Loss: 0.3123 | Accuracy: 86.28% 
+Test set | Loss: 0.3055 | Accuracy: 86.83% | time elapse:  20:15:44
+----------Epoch82/100----------
+Train set | Loss: 0.3168 | Accuracy: 86.14% 
+Test set | Loss: 0.3098 | Accuracy: 86.35% | time elapse:  20:48:19
+----------Epoch83/100----------
+Train set | Loss: 0.3072 | Accuracy: 86.58% 
+Test set | Loss: 0.3022 | Accuracy: 86.94% | time elapse:  21:20:51
+----------Epoch84/100----------
+Train set | Loss: 0.3124 | Accuracy: 86.32% 
+Test set | Loss: 0.2989 | Accuracy: 87.09% | time elapse:  21:53:24
+----------Epoch85/100----------
+Train set | Loss: 0.3102 | Accuracy: 86.40% 
+Test set | Loss: 0.3026 | Accuracy: 86.65% | time elapse:  22:25:58
+----------Epoch86/100----------
+Train set | Loss: 0.3069 | Accuracy: 86.60% 
+Test set | Loss: 0.3004 | Accuracy: 87.03% | time elapse:  22:58:33
+----------Epoch87/100----------
+Train set | Loss: 0.3039 | Accuracy: 86.81% 
+Test set | Loss: 0.2974 | Accuracy: 87.13% | time elapse:  23:31:06
+----------Epoch88/100----------
+Train set | Loss: 0.3035 | Accuracy: 86.91% 
+Test set | Loss: 0.2950 | Accuracy: 87.20% | time elapse:  00:03:44
+----------Epoch89/100----------
+Train set | Loss: 0.3038 | Accuracy: 86.78% 
+Test set | Loss: 0.2966 | Accuracy: 87.15% | time elapse:  00:36:21
+----------Epoch90/100----------
+Train set | Loss: 0.3015 | Accuracy: 86.93% 
+Test set | Loss: 0.2935 | Accuracy: 87.25% | time elapse:  01:08:57
+----------Epoch91/100----------
+Train set | Loss: 0.3034 | Accuracy: 86.66% 
+Test set | Loss: 0.2963 | Accuracy: 87.38% | time elapse:  01:41:33
+----------Epoch92/100----------
+Train set | Loss: 0.3002 | Accuracy: 87.05% 
+Test set | Loss: 0.2912 | Accuracy: 87.21% | time elapse:  02:14:09
+----------Epoch93/100----------
+Train set | Loss: 0.3028 | Accuracy: 86.83% 
+Test set | Loss: 0.2883 | Accuracy: 87.67% | time elapse:  02:46:41
+----------Epoch94/100----------
+Train set | Loss: 0.3004 | Accuracy: 86.91% 
+Test set | Loss: 0.2899 | Accuracy: 87.37% | time elapse:  03:19:18
+----------Epoch95/100----------
+Train set | Loss: 0.2994 | Accuracy: 87.02% 
+Test set | Loss: 0.2921 | Accuracy: 87.37% | time elapse:  03:51:57
+----------Epoch96/100----------
+Train set | Loss: 0.3006 | Accuracy: 86.93% 
+Test set | Loss: 0.2940 | Accuracy: 87.17% | time elapse:  04:24:31
+----------Epoch97/100----------
+Train set | Loss: 0.2989 | Accuracy: 86.97% 
+Test set | Loss: 0.2897 | Accuracy: 87.44% | time elapse:  04:57:28
+----------Epoch98/100----------
+Train set | Loss: 0.2988 | Accuracy: 87.00% 
+Test set | Loss: 0.2880 | Accuracy: 87.48% | time elapse:  05:30:04
+----------Epoch99/100----------
+Train set | Loss: 0.2945 | Accuracy: 87.28% 
+Test set | Loss: 0.2917 | Accuracy: 87.38% | time elapse:  06:02:37
+----------Epoch100/100----------
+Train set | Loss: 0.2927 | Accuracy: 87.40% 
+Test set | Loss: 0.2855 | Accuracy: 87.62% | time elapse:  06:35:18
